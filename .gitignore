@@ -2,6 +2,6 @@ __pycache__/
 archive/
 data_clean/
 __init__.py
--env
+-.env
 app_movies_beta.py
 
