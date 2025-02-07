@@ -1,0 +1,7 @@
+__pycache__/
+archive/
+data_clean/
+__init__.py
+-env
+app_movies_beta.py
+
