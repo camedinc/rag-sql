@@ -4,3 +4,4 @@ data_clean/
 __init__.py
 app_movies_beta.py
 .env
+.DS_Store
